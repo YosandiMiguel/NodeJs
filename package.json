@@ -1,0 +1,15 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --watch app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yosandi",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemo": "^1.0.0"
+  }
+}
